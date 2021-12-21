@@ -1,0 +1,28 @@
+{
+  "name": "markdown-docs",
+  "version": "1.0.0",
+  "description": "Markdown parser for docs",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc",
+    "compile-watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akrck02/Markdown-docs.git"
+  },
+  "keywords": [
+    "parser",
+    "markdown",
+    "typescript"
+  ],
+  "author": "akrck02",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akrck02/Markdown-docs/issues"
+  },
+  "homepage": "https://github.com/akrck02/Markdown-docs#readme",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}

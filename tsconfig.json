@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es2021",
+        "module": "es2015",
+        "strictFunctionTypes": true,
+        "moduleResolution": "node",
+        "outDir": "out/"
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}
