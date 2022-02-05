@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "index.html": true,
+        "favicon.ico": true,
+        "package-lock.json": true,
+        "app.js": true,
+        ".vscode": true,
+        "node_modules": true
+    },
+    "workspace.isHidden": true
+}
